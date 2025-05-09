@@ -1,10 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header)
+<div align="center">
 
-<a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
-<img src="https://img.shields.io/badge/EMAIL-EA4335.svg?style=plastic&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwon-csc&layout=compact&theme=nightowl" alt="Top Langs" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Header"/>
+
+  <p>
+    <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/EMAIL-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nightowl" alt="Top Languages" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
+    </a>
+  </p>
+
+</div>
 <!--
 **jungwon-csc/jungwon-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
