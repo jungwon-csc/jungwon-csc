@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient:87CEEB,00BFFF&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB,000080&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Header"/>
 
   <p>
     <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
@@ -19,8 +19,6 @@
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=jungwon-csc&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
     </a>
   </p>
-
-</div>
 
 </div>
 <!--
