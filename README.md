@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&text=Cyber%20Security%20Cloud%20Jungwon%2Park&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Waving Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&text=Cyber%20Security%20Cloud%20-%20Jungwon%20Park&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Waving Header"/>
   <div style="margin-top: 25px; margin-bottom: 25px;">
     <p style="font-size: 20px; margin-bottom: 5px;"> <strong>📫 Contact Me 📫</strong>
     </p>
