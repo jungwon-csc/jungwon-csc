@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6,87CEEB&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Waving Header"/>
 
   <div style="margin-top: 25px; margin-bottom: 25px;">
-    <p style="font-size: 20px; margin-bottom: 8px;">
-      <strong>📧 Contact Me</strong>
+    <p style="font-size: 30px; margin-bottom: 8px;">
+      <strong>📧 Contact Me 📧</strong>
     </p>
     <p>
       <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
