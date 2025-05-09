@@ -1,4 +1,4 @@
-<a href="jungwon.park@cscloud.co.jp" target="_blank"><img src="https://img.shields.io/badge/GMAIL-#EA4335?style=plastic&logo=appveyor&logoColor=000000"/></a>
+<a href="jungwon.park@cscloud.co.jp" target="_blank"><img src="https://img.shields.io/badge/gmail-#EA4335?style=plastic&logo=appveyor&logoColor=000000"/></a>
 
 <!--
 **jungwon-csc/jungwon-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
