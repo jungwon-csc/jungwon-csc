@@ -3,20 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Header"/>
 
   <p>
-    <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+    <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
       <img src="https://img.shields.io/badge/EMAIL-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nightowl" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwon-csc&layout=compact&theme=nightowl" alt="Top Languages" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=jungwon-csc&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
     </a>
   </p>
 
