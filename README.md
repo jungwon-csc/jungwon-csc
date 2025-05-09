@@ -1,14 +1,11 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6,87CEEB&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Waving Header"/>
-
   <div style="margin-top: 25px; margin-bottom: 25px;">
-    <p style="font-size: 40px; margin-bottom: 3px;">
-      <strong>📫 Contact Me 📫</strong>
+    <p style="font-size: 20px; margin-bottom: 5px;"> <strong>📫 Contact Me 📫</strong>
     </p>
-    <p style="margin-top: 3px;">
-      <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
-        <img src="https://img.shields.io/badge/Email-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email"/>
+    <p style="margin-top: 5px;"> <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
+        <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" height="35"/>
       </a>
     </p>
   </div>
