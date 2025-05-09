@@ -4,7 +4,7 @@
   <div style="margin-top: 25px; margin-bottom: 25px;">
     <p style="font-size: 20px; margin-bottom: 3px;"> <strong>📫 Contact Me 📫</strong>
     </p>
-    <p style="margin-top: 3px;"> <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
+    <p style="margin-top: 0px;"> <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
         <img src="https://img.shields.io/badge/Email-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email" height="35"/>
       </a>
     </p>
