@@ -8,7 +8,7 @@
     </p>
     <p style="margin-top: 5px;">
       <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
-        <img src="https://img.shields.io/badge/Email-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email" height="35"/>
+        <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" height="20"/>
       </a>
     </p>
   </div>
@@ -24,9 +24,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=jungwon-csc&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
     </a>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jungwon-csc&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=490" alt="GitHub Streak" />
-    </a>
+    <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=jungwon-csc&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </a>
   </div>
 
 </div>
