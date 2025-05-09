@@ -19,8 +19,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=jungwon-csc&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
   </a>
-  <a href="https://git.io/streak- τότε">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jungwon-csc&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=490" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jungwon-csc&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=490" alt="GitHub Streak" />
     </a>
 </div>
 
