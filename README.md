@@ -1,7 +1,7 @@
 <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
 <img src="https://img.shields.io/badge/EMAIL-EA4335.svg?style=plastic&logo=Gmail&logoColor=white"/>
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwon-csc&layout=compact&theme=nightowl" alt="Top Langs" /></a>
 <!--
 **jungwon-csc/jungwon-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
