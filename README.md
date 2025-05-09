@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient:87CEEB,00BFFF&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Header"/>
 
   <p>
     <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
