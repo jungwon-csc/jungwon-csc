@@ -1,5 +1,5 @@
 <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
-<img src="https://img.shields.io/badge/mail-EA4335.svg?style=plastic&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335.svg?style=plastic&logo=Gmail&logoColor=white"/>
 </a>
 
 <!--
