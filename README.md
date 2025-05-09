@@ -2,8 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6,87CEEB&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header" alt="Welcome Waving Header"/>
 
-  <div style="margin-top: 25px; margin-bottom: 25px;">
-    <p style="font-size: 40px; margin-bottom: 3px;">
+  <div style="margin-top: 25px; margin-bottom: 10px;">
+    <p style="font-size: 40px; margin-bottom: 8px;">
       <strong>📧 Contact Me 📧</strong>
     </p>
     <p>
