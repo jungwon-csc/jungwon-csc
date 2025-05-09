@@ -20,7 +20,6 @@
   <div class="stats-cards" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 16px; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwon-csc&layout=compact&theme=transparent" alt="Top Languages" />
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=jungwon-csc&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-    <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jungwon-csc&theme=transparent" alt="GitHub Streak" /></a></p>
   </div>
 
 </div>
