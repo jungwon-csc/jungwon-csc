@@ -1,6 +1,12 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3496eb&text=Welcome%20to%20my%20GitHub%20👋&fontColor=ffffff&fontSize=40&height=150&section=header&font=Josefin%20Sans" alt="Welcome Waving Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6,87CEEB&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=150&section=header&font=Josefin%20Sans" alt="Welcome Waving Header"/>
+
+  <div style="margin-top: 20px; margin-bottom: 20px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=22&pause=1000&color=36BCF7&center=true&width=435&lines=Hello%2C+I'm+Jungwon!" alt="Typing SVG"/>
+    </a>
+  </div>
   <div style="margin-top: 25px; margin-bottom: 25px;">
     <p style="font-size: 35px; margin-bottom: 5px;"> <strong>📫 Contact Me 📫</strong>
     </p>
