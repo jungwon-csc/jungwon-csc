@@ -8,7 +8,7 @@
     </p>
     <p>
       <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
-        <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email"/>
       </a>
     </p>
   </div>
