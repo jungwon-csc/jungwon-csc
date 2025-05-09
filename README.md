@@ -10,7 +10,7 @@
 
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwon-csc&layout=compact&theme=nightowl" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwon-csc&layout=compact&theme=transparent" alt="Top Languages" />
     </a>
   </p>
 
