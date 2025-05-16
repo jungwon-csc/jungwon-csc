@@ -13,8 +13,8 @@
     </p>
   </div>
 
-<div style="width: 100%; /* 부모 컨테이너 내에서 가능한 너비를 차지 */ text-align: left; box-sizing: border-box; padding-left: 20%; /* hr의 왼쪽 시작점과 유사하게 맞추기 위한 패딩 */ margin-bottom: 10px; /* hr과의 간격 */ margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic">
+<div style="width: 100%; box-sizing: border-box; padding-left: 20%; / margin-bottom: 10px;/ margin-top: 10px;">
+  <img align="Left" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic">
 </div>
 
 <div style="width: 100%; text-align: center; margin-top: 20px; margin-bottom: 30px;">
