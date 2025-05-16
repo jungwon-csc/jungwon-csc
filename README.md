@@ -10,9 +10,9 @@
       <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank">
         <img src="https://img.shields.io/badge/Email-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email" height="25"/>
       </a>
-    </p>
-    <p style="margin-top: 5px; margin-bottom: 5px;">
-      <img align="Left" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic">
+      <a
+        <img align="Left" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic">
+      </a>
     </p>
   </div>
 
