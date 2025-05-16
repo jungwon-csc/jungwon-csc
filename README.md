@@ -12,11 +12,9 @@
       </a>
     </p>
   </div>
-  <div style="margin-top: 25px; margin-bottom: 25px;">
-      tyle="margin-top: 5px;">
-      <a
-        <img align="Left" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic">
-      </a>
+  <div style="margin-top: 5px; margin-bottom: 5px;">
+    <p style="margin-top: 5px;">
+      <img align="Left" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic">
     </p>
   </div>
     
