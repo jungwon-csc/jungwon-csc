@@ -1,6 +1,12 @@
 <div align="center";>
-  <img align="Left" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0377fc&text=Welcome%20to%20My%20GitHub!%20👋&fontColor=ffffff&fontSize=40&height=150&section=header&font=Josefin%20Sans" alt="Welcome Waving Header"/>
+
+  <div style="position: absolute;">
+    <div style="position: relative; top: 80px; left: 100px;"><img align="Left" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic"/></img></div>
+  </div>
+  <div style="position: absolute;">
+    <div style="position: relative; top: 80px; left: 120px;"><img src="https://capsule-render.vercel.app/api?type=waving&color=0377fc&text=Welcome%20to%20My%20GitHub!%20👋&fontColor=ffffff&fontSize=40&height=150&section=header&font=Josefin%20Sans" alt="Welcome Waving Header"/></img></div>
+  </div>
+
   
   <div style="margin-top: 25px; margin-bottom: 25px;">
     <p style="font-size: 43px; margin-bottom: 5px;">
