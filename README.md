@@ -13,7 +13,7 @@
     </p>
   </div>
 
-  <div style="width: 60%; margin: 10px auto; display: flex; justify-content: flex-start;">
+  <div style="width: 60%; margin: 0 auto 10px auto; display: flex; justify-content: flex-start;">
     <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic"/>
   </div>
 
