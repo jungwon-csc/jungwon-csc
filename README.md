@@ -4,7 +4,8 @@
    <div style="width: 60%; margin: 0 auto 10px auto; display: flex; justify-content: flex-start;"> 
      <img align="Left" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic"/> 
    </div> 
-   <hr>
+   <div style="width: 100%; text-align: center; margin-top: 10px; margin-bottom: 30px;"> <hr style="width:60%; border:none; height:1px; background-color:#d0d7de;" /> 
+   </div> 
    <div style="margin-top: 25px; margin-bottom: 25px;"> 
      <p style="font-size: 43px; margin-bottom: 5px;"> 
        <strong>:mailbox: Contact Me :mailbox:</strong> 
