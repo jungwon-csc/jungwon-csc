@@ -14,7 +14,7 @@
   </div>
 
   <div style="width: 100%; box-sizing: border-box; padding-left: 20%; margin-bottom: 10px; margin-top:10px;">
-    <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic";align="left">
+    <img align="Right" src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic">
   </div>
 
   <div style="width: 100%; text-align: center; margin-top: 20px; margin-bottom: 30px;">
