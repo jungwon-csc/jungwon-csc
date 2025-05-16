@@ -12,7 +12,7 @@
       </a>
     </p>
   </div>
-  <div style="width: 60%; margin: 0 auto; text-align: left; margin-bottom: 10px;">
+  <div style="width: 60%;margin: 0 auto; text-align: left; margin-bottom: 10px;">
     <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blueviolet&style=plastic" alt="Profile Visitor Counter - Blueviolet Plastic">
   </div>
   <div style="width: 100%; text-align: center; margin-top: 20px; margin-bottom: 30px;">
