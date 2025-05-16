@@ -1,4 +1,5 @@
-<div style="width: 80%; margin: 0 auto; text-align: center;"> 
+<div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0377fc&text=Welcome%20to%20My%20GitHub!%20👋&fontColor=ffffff&fontSize=40&height=150&section=header&font=Josefin%20Sans" alt="Welcome Waving Header"/>
 
   <div style="margin-top: 25px; margin-bottom: 25px;">
@@ -10,13 +11,11 @@
         <img src="https://img.shields.io/badge/Email-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email" height="25"/>
       </a>
     </p>
+  <div style="width: 60%;margin: 0 auto 30px auto; text-align: left;">
+    <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blueviolet Plastic" style="margin-bottom: 10px;">
+    <hr style="width:100%;border:none; height:1px; background-color:#d0d7de;" /> 
   </div>
 
-  <div style="text-align: left; margin-top: 15px; margin-bottom: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blueviolet&style=plastic" alt="Profile Visitor Counter - Blueviolet Plastic">
-  </div>
-
-  <hr style="width:100%; border:none; height:1px; background-color:#d0d7de; margin-top: 20px; margin-bottom: 30px;" /> 
   <div class="stats-cards" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 16px; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwon-csc&layout=compact&theme=transparent" alt="Top Languages" />
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=jungwon-csc&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
