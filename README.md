@@ -13,8 +13,8 @@
     </p>
   </div>
 
-  <div style="width: 100%; text-align: left; box-sizing: border-box; padding-left: 0%; margin-bottom: 10px; margin-top:10px;">
-    <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blueviolet&style=plastic" alt="Profile Visitor Counter - Blueviolet Plastic">
+  <div style="width: 100%; align: left; box-sizing: border-box; padding-left: 20%; margin-bottom: 10px; margin-top:10px;">
+    <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blue&style=plastic" alt="Profile Visitor Counter - Blue Plastic">
   </div>
 
   <div style="width: 100%; text-align: center; margin-top: 20px; margin-bottom: 30px;">
