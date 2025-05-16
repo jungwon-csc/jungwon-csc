@@ -11,12 +11,12 @@
         <img src="https://img.shields.io/badge/Email-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email" height="25"/>
       </a>
     </p>
-  <div style="width: 60%; margin: 0; / text-align: left;">
-    <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blueviolet&style=plastic" alt="Profile Visitor Counter - Blueviolet Plastic">
-  </div>
-
-  <div style="width: 100%; text-align: center; margin-top: 20px; margin-bottom: 30px;">
-    <hr style="width:60%; border:none; height:1px; background-color:#d0d7de;" /> 
+  <div style="width: 60%; /* hr 태그와 동일한 너비로 설정 */ margin: 20px auto 30px auto; position: relative;"> 
+    <div style="position: absolute; left: 0; top: -25px; /* hr 태그와 이미지 높이를 고려하여 위로 올리는 값 조절 */">
+      <img src="https://komarev.com/ghpvc/?username=jungwon-csc&color=blueviolet&style=plastic" alt="Profile Visitor Counter - Blueviolet Plastic">
+    </div>
+    
+    <hr style="width:100%; border:none; height:1px; background-color:#d0d7de;" /> 
   </div>
 
   <div class="stats-cards" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 16px; margin-top: 20px;">
