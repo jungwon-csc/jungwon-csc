@@ -6,16 +6,6 @@
   </div> 
   <div style="width: 100%; text-align: center; margin-top: 10px; margin-bottom: 30px;"> <hr style="width:60%; border:none; height:1px; background-color:#d0d7de;" /> 
   </div> 
-  <div style="margin-top: 25px; margin-bottom: 25px;"> 
-   <p style="font-size: 43px; margin-bottom: 5px;"> 
-    <strong>:mailbox: Contact Me :mailbox:</strong> 
-   </p> 
-   <p style="margin-top: 5px;"> 
-    <a href="mailto:jungwon.park@cscloud.co.jp" target="_blank"> 
-     <img src="https://img.shields.io/badge/Email-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Email" height="25"/> 
-    </a> 
-   </p> 
-  </div> 
 
   <div style="width: 100%; text-align: center; margin-top: 10px; margin-bottom: 30px;"> <hr style="width:60%; border:none; height:1px; background-color:#d0d7de;" /> 
   </div> 
